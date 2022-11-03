@@ -1,0 +1,9 @@
+{
+  "name": "hometask-project-set-up",
+  "version": "1.0.0",
+  "description": "This is my first project",
+  "main": "index.js",
+  "repository": "git@github.com:om319/ts_homework_2.git",
+  "author": "omatvejevs",
+  "license": "MIT"
+}

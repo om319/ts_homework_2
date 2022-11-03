@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "git@github.com:om319/ts_homework_2.git",
   "author": "omatvejevs",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
 }

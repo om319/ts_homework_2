@@ -12,7 +12,7 @@ test('should properly count rectangle area', () => {
 
 test('should properly return info message', () => {
     console.log = function(){
-        let consoleOutput = Array.from(arguments)[0]; // ES5
+        let consoleOutput = Array.from(arguments)[0];
         expect(consoleOutput).toEqual("The perimeter of a rectangle is 14 and the area is 12");
     }
     getRectangleInfo(3,4);
